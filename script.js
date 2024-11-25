@@ -1,0 +1,1 @@
+document.getElementById("mensaje").innerText = "Un juego multiplataforma";
